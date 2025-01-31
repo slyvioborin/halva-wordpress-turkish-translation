@@ -1,2 +1,5 @@
 # halva-wordpress-turkish-translation
-Halva - Minimal Theme for WordPress Blog Turkish Translation
+[Halva - Minimal Theme for WordPress Blog by BirdWPThemes](https://themeforest.net/item/halva-minimal-theme-for-wordpress-blog/50468647) Turkish Translation
+
+
+Halva is an easy-to-use and lightweight classic theme for a personal WordPress blog with a minimalistic design. This theme has the ability to display a carousel with your featured posts on the home page, and also supports the functionality of live switching between font types (serif fonts or sans-serif fonts) and color modes (light mode or dark mode). For the convenience of visitors, the Halva theme has the ability to quickly switch between two types of blog layout: one column or three columns. There is support for both the classic editor and the block editor, so you can use the editor you prefer to create your posts. The Halva theme also has a number of other features: built-in support for lightboxes for images and galleries, support for contact forms (Contact Form 7), 4 widget areas, support for classic widgets, support for block editor widgets, 5 additional widgets, support for all post formats, views counter for posts and pages, responsive layout, and much more. If you love minimalism and simplicity, then the Halva theme is what you need for your blog.
