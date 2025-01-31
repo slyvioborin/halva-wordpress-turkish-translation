@@ -1,0 +1,2057 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Halva\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-21 01:51+0300\n"
+"PO-Revision-Date: 2024-12-21 19:31+0300\n"
+"Last-Translator: Alperen Arslan <slyvioborin@gmail.com>\n"
+"Language-Team: Turkish (Turkey)\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.5\n"
+"X-Loco-Source-Locale: en\n"
+"X-Loco-Project-Id: 165852\n"
+"X-Loco-Api-Version: 1.0.29 20241018-1\n"
+
+#: 404.php:19 loco:6765f518ad08e11e0d0203e0
+msgid "Oops... Error 404"
+msgstr "Eyvah... 404 Hatası"
+
+#: 404.php:20 loco:6765f518ad08e11e0d0203e1
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "Üzgünüz, aradığınız sayfa mevcut değil."
+
+#: 404.php:21 loco:6765f518ad08e11e0d0203e2
+#, php-format
+msgid ""
+"Please check entered address and try again or go to <a href=\"%1$s\" "
+"rel=\"home\">Homepage</a>."
+msgstr ""
+"Lütfen girilen adresi kontrol edin ve tekrar deneyin veya <a href=\"%1$s\" "
+"rel=\"home\">Ana Sayfaya</a> gidin."
+
+#: comments.php:46 loco:6765f518ad08e11e0d0203e3
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "&ldquo;%s&rdquo; hakkında bir yorum"
+
+#: comments.php:56 loco:6765f518ad08e11e0d0203e4
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; üzerine %1$s yorum"
+msgstr[1] "&ldquo;%2$s&rdquo; üzerine %1$s tane yorum"
+
+#: comments.php:86 loco:6765f518ad08e11e0d0203e6
+msgid "Older comments"
+msgstr "Eski yorumlar"
+
+#: comments.php:87 loco:6765f518ad08e11e0d0203e7
+msgid "Newer comments"
+msgstr "Daha yeni yorumlar"
+
+#: comments.php:103 loco:6765f518ad08e11e0d0203e8
+msgid "Comments are closed."
+msgstr "Yorumlar kapalıdır."
+
+#: comments.php:114 loco:6765f518ad08e11e0d0203e9
+msgid "Your email address will not be published. Required fields are marked *"
+msgstr "E-posta adresiniz yayımlanmayacak. Gerekli alanlar işaretlenmiştir *"
+
+#: comments.php:115 loco:6765f518ad08e11e0d0203ea
+msgid "Leave a reply"
+msgstr "Bir cevap bırakın"
+
+#: comments.php:116 loco:6765f518ad08e11e0d0203eb
+#, php-format
+msgid "Leave a reply to %s"
+msgstr "%s için bir yanıt bırakın"
+
+#: comments.php:117 loco:6765f518ad08e11e0d0203ec
+msgid "Cancel reply"
+msgstr "Cevabı iptal et"
+
+#: comments.php:118 loco:6765f518ad08e11e0d0203ed
+msgid "Post comment"
+msgstr "Yorum gönder"
+
+#: footer.php:16 loco:6765f518ad08e11e0d0203ee
+msgid "Widgets"
+msgstr "Bileşenler"
+
+#: footer.php:166 loco:6765f518ad08e11e0d0203ef
+msgid "Menu"
+msgstr "Menü"
+
+#: footer.php:256 inc/customizer/customizer.php:2877
+#: loco:6765f518ad08e11e0d0203f0
+msgid "Sans-serif fonts"
+msgstr "Sans-serif yazı tipleri"
+
+#: footer.php:257 inc/customizer/customizer.php:2878
+#: loco:6765f518ad08e11e0d0203f1
+msgid "Serif fonts"
+msgstr "Serif yazı tipleri"
+
+#: functions.php:56 loco:6765f518ad08e11e0d0203f2
+msgid "Main menu (Header)"
+msgstr "Ana menü (Üstbilgi)"
+
+#: functions.php:57 loco:6765f518ad08e11e0d0203f3
+msgid "Footer menu"
+msgstr "Altbilgi menüsü"
+
+#: functions.php:114 loco:6765f518ad08e11e0d0203f4
+msgid "Black"
+msgstr "Siyah"
+
+#: functions.php:119 loco:6765f518ad08e11e0d0203f5
+msgid "Light Gray"
+msgstr "Açık Gri"
+
+#: functions.php:124 loco:6765f518ad08e11e0d0203f6
+msgid "White"
+msgstr "Beyaz"
+
+#: functions.php:129 loco:6765f518ad08e11e0d0203f7
+msgid "Green"
+msgstr "Yeşil"
+
+#: functions.php:134 loco:6765f518ad08e11e0d0203f8
+msgid "Blue"
+msgstr "Mavi"
+
+#: functions.php:139 loco:6765f518ad08e11e0d0203f9
+msgid "Purple"
+msgstr "Mor"
+
+#: functions.php:144 loco:6765f518ad08e11e0d0203fa
+msgid "Red"
+msgstr "Kırmızı"
+
+#: functions.php:149 loco:6765f518ad08e11e0d0203fb
+msgid "Orange"
+msgstr "Turuncu"
+
+#: functions.php:154 loco:6765f518ad08e11e0d0203fc
+msgid "Yellow"
+msgstr "Sarı"
+
+#: functions.php:577 loco:6765f518ad08e11e0d0203fd
+msgid "Sidebar"
+msgstr "Kenar çubuğu"
+
+#: functions.php:579 loco:6765f518ad08e11e0d0203fe
+msgid ""
+"Add widgets here to appear in your hidden sidebar. This area for widgets is "
+"located in a hidden container on the right."
+msgstr ""
+"Gizli kenar çubuğunuzda görünmesi için bileşenleri buraya ekleyin. "
+"Bileşenler için olan bu alan, sağdaki gizli bir bölümde bulunur."
+
+#: functions.php:588 loco:6765f518ad08e11e0d0203ff
+msgid "Footer: Left Column"
+msgstr "Altbilgi: Sol Sütun"
+
+#: functions.php:590 loco:6765f518ad08e11e0d020400
+msgid "Add widgets here to appear in your footer (column 1: left column)."
+msgstr ""
+"Altbilginizde görünmesi için bileşenleri buraya ekleyin (sütun 1: sol sütun)."
+
+#: functions.php:599 loco:6765f518ad08e11e0d020401
+msgid "Footer: Center Column"
+msgstr "Altbilgi: Orta Sütun"
+
+#: functions.php:601 loco:6765f518ad08e11e0d020402
+msgid "Add widgets here to appear in your footer (column 2: center column)."
+msgstr ""
+"Altbilginizde görünmesi için bileşenleri buraya ekleyin (sütun 2: orta "
+"sütun)."
+
+#: functions.php:610 loco:6765f518ad08e11e0d020403
+msgid "Footer: Right Column"
+msgstr "Altbilgi: Sağ Sütun"
+
+#: functions.php:612 loco:6765f518ad08e11e0d020404
+msgid "Add widgets here to appear in your footer (column 3: right column)."
+msgstr ""
+"Altbilginizde görünmesi için bileşenleri buraya ekleyin (sütun 3: sağ sütun)."
+
+#: functions.php:1173 functions.php:1250 loco:6765f518ad08e11e0d020405
+msgid "Follow:"
+msgstr "Takip et:"
+
+#: functions.php:1345 loco:6765f518ad08e11e0d020406
+msgid "Category:"
+msgstr "Kategori:"
+
+#: functions.php:1348 loco:6765f518ad08e11e0d020407
+msgid "Tag: #"
+msgstr "Etiket: #"
+
+#: functions.php:1370 loco:6765f518ad08e11e0d020408
+msgid "Search results for:"
+msgstr "Arama sonuçları:"
+
+#: functions.php:1374 loco:6765f518ad08e11e0d020409
+msgid "Total posts and pages found:"
+msgstr "Toplam bulunan yazı ve sayfalar:"
+
+#: functions.php:1398 loco:6765f518ad08e11e0d02040a
+msgid "Latest posts"
+msgstr "Son yazılar"
+
+#: functions.php:1446 loco:6765f518ad08e11e0d02040b
+msgid "Page №"
+msgstr "Sayfa No"
+
+#: functions.php:1446 loco:6765f518ad08e11e0d02040c
+msgid "of"
+msgstr ""
+
+#: functions.php:1462 loco:6765f518ad08e11e0d02040d
+msgid "View:"
+msgstr "Görüntüle:"
+
+#: functions.php:1551 functions.php:1565 loco:6765f518ad08e11e0d02040e
+msgid "Published:"
+msgstr "Yayınlanmış:"
+
+#: functions.php:1578 loco:6765f518ad08e11e0d02040f
+msgid "Updated:"
+msgstr "Güncellenmiş:"
+
+#: functions.php:1593 functions.php:1684 loco:6765f518ad08e11e0d020410
+msgid "Written by:"
+msgstr "Yazan:"
+
+#: functions.php:1686 loco:6765f518ad08e11e0d020411
+msgid "All posts by the author"
+msgstr "Yazarın tüm gönderileri"
+
+#: inc/customizer/customizer.php:91 loco:6765f518ad08e11e0d020412
+msgid "All categories"
+msgstr "Tüm kategoriler"
+
+#: inc/customizer/customizer.php:116 loco:6765f518ad08e11e0d020413
+msgid "Dark Mode: Logo (optional)"
+msgstr "Karanlık Mod: Logo (isteğe bağlı)"
+
+#: inc/customizer/customizer.php:128 loco:6765f518ad08e11e0d020414
+msgid ""
+"Recommendation: This logo should be the same size as the light mode logo "
+"(Site Identity > Logo)."
+msgstr ""
+"Öneri: Bu logo, aydınlık mod logosu (Site Kimliği > Logo) ile aynı boyutta "
+"olmalıdır."
+
+#: inc/customizer/customizer.php:138 loco:6765f518ad08e11e0d020415
+msgid "Dark Mode: Logo (setting description)"
+msgstr "Karanlık Mod: Logo (ayar açıklaması)"
+
+#: inc/customizer/customizer.php:160 loco:6765f518ad08e11e0d020416
+msgid "Logo Width, px"
+msgstr "Logo Genişliği, px"
+
+#: inc/customizer/customizer.php:182 inc/customizer/customizer.php:403
+#: loco:6765f518ad08e11e0d020417
+msgid "Hidden Navigation: Logo"
+msgstr "Gizli Dolaşım: Logo"
+
+#: inc/customizer/customizer.php:204 loco:6765f518ad08e11e0d020418
+msgid "Hidden Navigation: Dark Mode Logo (optional)"
+msgstr "Gizli Dolaşım: Karanlık Mod Logosu (isteğe bağlı)"
+
+#: inc/customizer/customizer.php:216 loco:6765f518ad08e11e0d020419
+msgid ""
+"Recommendation: This logo should be the same size as the light mode logo "
+"(Site Identity > Hidden Navigation: Logo)."
+msgstr ""
+"Öneri: Bu logo, aydınlık mod logosu ile aynı boyutta olmalıdır (Site Kimliği "
+"> Gizli Dolaşım: Logo)."
+
+#: inc/customizer/customizer.php:226 loco:6765f518ad08e11e0d02041a
+msgid "Hidden Navigation: Dark Mode Logo (setting description)"
+msgstr "Gizli Dolaşım: Karanlık Mod Logosu (ayar açıklaması)"
+
+#: inc/customizer/customizer.php:248 loco:6765f518ad08e11e0d02041b
+msgid "Hidden Navigation: Logo Width, px"
+msgstr "Gizli Dolaşım: Logo Genişliği, px"
+
+#: inc/customizer/customizer.php:265 loco:6765f518ad08e11e0d02041c
+msgid "Logo Settings"
+msgstr "Logo Ayarları"
+
+#: inc/customizer/customizer.php:275 loco:6765f518ad08e11e0d02041d
+msgid ""
+"The Halva theme displays text logos by default. Here you can write your text "
+"for logos and also change the type of logos from text to image."
+msgstr ""
+"Halva teması, varsayılan olarak metin logolarını görüntüler. Burada logolar "
+"için metninizi yazabilir ve ayrıca logo türünü metinden resme "
+"değiştirebilirsiniz."
+
+#: inc/customizer/customizer.php:285 loco:6765f518ad08e11e0d02041e
+msgid "Logo Settings: Description of the Settings Section"
+msgstr "Logo Ayarları: Ayarlar bölümünün açıklaması"
+
+#: inc/customizer/customizer.php:312 loco:6765f518ad08e11e0d02041f
+msgid "Main Logo"
+msgstr "Ana Logo"
+
+#: inc/customizer/customizer.php:333 loco:6765f518ad08e11e0d020420
+msgid "Logo Type"
+msgstr "Logo Türü"
+
+#: inc/customizer/customizer.php:336 inc/customizer/customizer.php:427
+#: loco:6765f518ad08e11e0d020421
+msgid "Text"
+msgstr "Metin"
+
+#: inc/customizer/customizer.php:337 inc/customizer/customizer.php:428
+#: loco:6765f518ad08e11e0d020422
+msgid "Image"
+msgstr "Resim"
+
+#: inc/customizer/customizer.php:347 loco:6765f518ad08e11e0d020423
+msgid ""
+"You can add an image for your main logo in the \"Site Identity\" section: "
+"\"Site Identity > Logo\"."
+msgstr ""
+"\"Site Kimliği\" bölümünde ana logonuz için bir resim ekleyebilirsiniz: "
+"\"Site Kimliği > Logo\"."
+
+#: inc/customizer/customizer.php:357 loco:6765f518ad08e11e0d020424
+msgid "Logo Type (setting description)"
+msgstr "Logo Türü (ayar açıklaması)"
+
+#: inc/customizer/customizer.php:377 loco:6765f518ad08e11e0d020425
+msgid "Logo Text (Logo Type: Text)"
+msgstr "Logo Metni (Logo Türü: Metin)"
+
+#: inc/customizer/customizer.php:424 loco:6765f518ad08e11e0d020426
+msgid "Hidden Navigation: Logo Type"
+msgstr "Gizli Dolaşım: Logo Türü"
+
+#: inc/customizer/customizer.php:438 loco:6765f518ad08e11e0d020427
+msgid ""
+"You can add an image for your navigation logo in the \"Site Identity\" "
+"section: \"Site Identity > Hidden Navigation: Logo\"."
+msgstr ""
+"\"Site Kimliği\" bölümünde dolaşım logonuz için bir resim ekleyebilirsiniz: "
+"\"Site Kimliği > Gizli Dolaşım: Logo\"."
+
+#: inc/customizer/customizer.php:448 loco:6765f518ad08e11e0d020428
+msgid "Hidden Navigation: Logo Type (setting description)"
+msgstr "Gizli Dolaşım: Logo Türü (ayar açıklaması)"
+
+#: inc/customizer/customizer.php:468 loco:6765f518ad08e11e0d020429
+msgid "Hidden Navigation: Logo Text (Logo Type: Text)"
+msgstr "Gizli Dolaşım: Logo Metni (Logo Türü: Metin)"
+
+#: inc/customizer/customizer.php:484 loco:6765f518ad08e11e0d02042a
+msgid "Site Navigation"
+msgstr "Site Dolaşımı"
+
+#: inc/customizer/customizer.php:509 loco:6765f518ad08e11e0d02042b
+msgid "Hidden Navigation"
+msgstr "Gizli Dolaşım"
+
+#: inc/customizer/customizer.php:530 loco:6765f518ad08e11e0d02042c
+msgid "Enable hidden navigation"
+msgstr "Gizli dolaşımı etkinleştir"
+
+#: inc/customizer/customizer.php:555 loco:6765f518ad08e11e0d02042d
+msgid "Main Menu"
+msgstr "Ana Menü"
+
+#: inc/customizer/customizer.php:567 loco:6765f518ad08e11e0d02042e
+msgid ""
+"The site navigation displays your Main Menu. You can add this menu in the "
+"menu editor: \"WordPress Dashboard > Appearance > Menus\". Display location: "
+"\"Main menu (Header)\"."
+msgstr ""
+"Site dolaşımını Ana Menünüzü görüntüler. Bu menüyü menü düzenleyiciye "
+"ekleyebilirsiniz: \"WordPress Başlangıç > Görünüm > Menüler\". Ekran konumu: "
+"\"Ana menü (Başlık)\"."
+
+#: inc/customizer/customizer.php:577 loco:6765f518ad08e11e0d02042f
+msgid "Main Menu: Instructions for Adding"
+msgstr "Ana Menü: Ekleme Talimatları"
+
+#: inc/customizer/customizer.php:604 loco:6765f518ad08e11e0d020430
+msgid "Social Links"
+msgstr "Sosyal Bağlantılar"
+
+#: inc/customizer/customizer.php:616 loco:6765f518ad08e11e0d020431
+msgid ""
+"Add URLs of your social profiles. If you have a large number of social "
+"profiles, then it is recommended to add links to them to the dropdown "
+"submenu of your main menu."
+msgstr ""
+"Sosyal medya profillerinizin bağlantılarını ekleyin. Çok sayıda sosyal medya "
+"profiliniz varsa, ana menünüzün açılır alt menüsüne bunlara bağlantılar "
+"eklemeniz önerilir."
+
+#: inc/customizer/customizer.php:626 loco:6765f518ad08e11e0d020432
+msgid "Description of Social Settings"
+msgstr "Sosyal Ayarlar'ın açıklaması"
+
+#: inc/customizer/customizer.php:646 loco:6765f518ad08e11e0d020433
+msgid "Twitter X URL"
+msgstr "Twitter X bağlantısı"
+
+#: inc/customizer/customizer.php:665 loco:6765f518ad08e11e0d020434
+msgid "Facebook URL"
+msgstr "Facebook URL'si"
+
+#: inc/customizer/customizer.php:684 loco:6765f518ad08e11e0d020435
+msgid "Pinterest URL"
+msgstr "Pinterest URL'si"
+
+#: inc/customizer/customizer.php:703 loco:6765f518ad08e11e0d020436
+msgid "Telegram URL"
+msgstr "Telegram bağlantısı"
+
+#: inc/customizer/customizer.php:722 loco:6765f518ad08e11e0d020437
+msgid "Reddit URL"
+msgstr "Reddit URL'si"
+
+#: inc/customizer/customizer.php:741 loco:6765f518ad08e11e0d020438
+msgid "TikTok URL"
+msgstr "TikTok URL'si"
+
+#: inc/customizer/customizer.php:760 loco:6765f518ad08e11e0d020439
+msgid "VK URL"
+msgstr "VK bağlantısı"
+
+#: inc/customizer/customizer.php:779 loco:6765f518ad08e11e0d02043a
+msgid "Linkedin URL"
+msgstr "Linkedin URL'si"
+
+#: inc/customizer/customizer.php:798 loco:6765f518ad08e11e0d02043b
+msgid "PayPal URL"
+msgstr "PayPal URL'si"
+
+#: inc/customizer/customizer.php:817 loco:6765f518ad08e11e0d02043c
+msgid "Patreon URL"
+msgstr "Patreon URL'si"
+
+#: inc/customizer/customizer.php:836 loco:6765f518ad08e11e0d02043d
+msgid "Flickr URL"
+msgstr "Flickr URL'si"
+
+#: inc/customizer/customizer.php:855 loco:6765f518ad08e11e0d02043e
+msgid "Instagram URL"
+msgstr "Instagram URL'si"
+
+#: inc/customizer/customizer.php:874 loco:6765f518ad08e11e0d02043f
+msgid "YouTube URL"
+msgstr "YouTube URL'si"
+
+#: inc/customizer/customizer.php:893 loco:6765f518ad08e11e0d020440
+msgid "Vimeo URL"
+msgstr "Vimeo URL'si"
+
+#: inc/customizer/customizer.php:912 inc/post-meta-boxes/meta-boxes.php:213
+#: loco:6765f518ad08e11e0d020441
+msgid "SoundCloud URL"
+msgstr "SoundCloud bağlantısı"
+
+#: inc/customizer/customizer.php:931 loco:6765f518ad08e11e0d020442
+msgid "Dribbble URL"
+msgstr "Dribble bağlantısı"
+
+#: inc/customizer/customizer.php:950 loco:6765f518ad08e11e0d020443
+msgid "Behance URL"
+msgstr "Behance URL'si"
+
+#: inc/customizer/customizer.php:969 loco:6765f518ad08e11e0d020444
+msgid "GitHub URL"
+msgstr "GitHub URL'si"
+
+#: inc/customizer/customizer.php:988 loco:6765f518ad08e11e0d020445
+msgid "RSS URL"
+msgstr "RSS bağlantısı"
+
+#: inc/customizer/customizer.php:999 inc/customizer/customizer.php:1009
+#: loco:6765f518ad08e11e0d020446
+msgid "Settings for Social Links in HTML Code Format"
+msgstr "HTML Kodu Biçiminde Sosyal Bağlantılar İçin Ayarlar"
+
+#: inc/customizer/customizer.php:1030 loco:6765f518ad08e11e0d020447
+msgid "Display social links in HTML code format instead of preset links"
+msgstr ""
+"Sosyal bağlantıları önceden ayarlanmış bağlantılar yerine HTML kodu "
+"biçiminde görüntüleme"
+
+#: inc/customizer/customizer.php:1048 loco:6765f518ad08e11e0d020448
+msgid "Social Links (HTML Code)"
+msgstr "Sosyal Bağlantılar (HTML Kodu)"
+
+#: inc/customizer/customizer.php:1059 loco:6765f518ad08e11e0d020449
+msgid ""
+"Add HTML code for your social links. You can use the following HTML tags: a, "
+"span, i. The following attributes are allowed for these tags: \"a - href, "
+"title, target, class, rel\", \"span - class\", \"i - class\". You can find "
+"examples of adding social links to this field in the documentation for this "
+"theme (Documentation > Theme Customization > Site Navigation > Social Links)."
+msgstr ""
+"Sosyal bağlantılarınız için HTML kodu ekleyin. Aşağıdaki HTML etiketlerini "
+"kullanabilirsiniz: a, span, i. Bu etiketler için şu özelliklere izin "
+"verilir: \"a - href, title, target, class, rel\", \"span - class\", \"i - "
+"class\". Bu alana sosyal medya bağlantıları ekleme örneklerini bu temanın "
+"belgelerinde bulabilirsiniz (Belgeler > Tema Özelleştirme > Sitede Dolaşım > "
+"Sosyal Bağlantılar)."
+
+#: inc/customizer/customizer.php:1069 loco:6765f518ad08e11e0d02044a
+msgid "Social Links: Allowed HTML Tags"
+msgstr "Sosyal Bağlantılar: İzin Verilen HTML Etiketleri"
+
+#: inc/customizer/customizer.php:1096 loco:6765f518ad08e11e0d02044b
+msgid "Subscribe Link"
+msgstr "Abonelik Linki"
+
+#: inc/customizer/customizer.php:1116 loco:6765f518ad08e11e0d02044c
+msgid "Subscribe URL"
+msgstr "Abonelik bağlantısı"
+
+#: inc/customizer/customizer.php:1127 loco:6765f518ad08e11e0d02044d
+msgid ""
+"You can use a MailChimp Form or any mailing system that generate a public "
+"URL. Check the documentation for this theme for more details."
+msgstr ""
+"Bir MailChimp formu veya genel bir bağlantı oluşturan herhangi bir posta "
+"sistemi kullanabilirsiniz. Daha fazla ayrıntı için bu temanın belgelerine "
+"bakın."
+
+#: inc/customizer/customizer.php:1137 loco:6765f518ad08e11e0d02044e
+msgid "Subscribe URL (setting description)"
+msgstr "Abonelik bağlantısı (ayar açıklaması)"
+
+#: inc/customizer/customizer.php:1157 loco:6765f518ad08e11e0d02044f
+msgid "Subscribe: Link Text"
+msgstr "Abonelik: Bağlantı Metni"
+
+#: inc/customizer/customizer.php:1173 loco:6765f518ad08e11e0d020450
+msgid "Homepage Carousel"
+msgstr "Ana Sayfa Slaytı"
+
+#: inc/customizer/customizer.php:1198 loco:6765f518ad08e11e0d020451
+msgid "Display Settings"
+msgstr "Görüntü Ayarları"
+
+#: inc/customizer/customizer.php:1219 loco:6765f518ad08e11e0d020452
+msgid "Show homepage carousel"
+msgstr "Ana Sayfada slaytı göster"
+
+#: inc/customizer/customizer.php:1238 loco:6765f518ad08e11e0d020453
+msgid "Show the carousel only on the first pagination page"
+msgstr "Slaytı yalnızca ilk sayfada göster"
+
+#: inc/customizer/customizer.php:1263 loco:6765f518ad08e11e0d020454
+msgid "Carousel Options"
+msgstr "Slayt Seçenekleri"
+
+#: inc/customizer/customizer.php:1285 loco:6765f518ad08e11e0d020455
+msgid "Maximum Number Of Carousel Items (Default Value: 7)"
+msgstr "Maksimum Slayt Öğe Sayısı (Varsayılan Değer: 7)"
+
+#: inc/customizer/customizer.php:1306 loco:6765f518ad08e11e0d020456
+msgid "What Type Of Posts Should Be Shown In The Carousel?"
+msgstr "Slaytta Ne Tür Gönderiler Gösterilmeli?"
+
+#: inc/customizer/customizer.php:1309 loco:6765f518ad08e11e0d020457
+msgid "Posts by category"
+msgstr "Kategoriye göre gönderiler"
+
+#: inc/customizer/customizer.php:1310 loco:6765f518ad08e11e0d020458
+msgid "Featured posts"
+msgstr "Öne çıkan gönderiler"
+
+#: inc/customizer/customizer.php:1320 loco:6765f518ad08e11e0d020459
+msgid ""
+"\"Posts by category\" - The carousel will display posts from all categories "
+"or from one selected category. \"Featured posts\" - The carousel will "
+"display only featured posts. You can select these posts manually in the "
+"settings for each post: \"WordPress Dashboard > Posts > Add new or Edit "
+"existing post > Additional Settings > Homepage Carousel > Add this post to "
+"the carousel on your homepage (check the box)\"."
+msgstr ""
+"\"Kategoriye göre gönderiler\" - Slayt, tüm kategorilerden veya seçilen bir "
+"kategoriden gönderileri gösterecektir. \"Öne çıkan gönderiler\" - Slayt "
+"yalnızca öne çıkan gönderileri gösterir. Bu gönderileri her gönderi için "
+"ayarlarda manuel olarak seçebilirsiniz: \"WordPress Başlangıç > Yazılar > "
+"Yeni ekle veya Mevcut yazıyı düzenle > Ek Ayarlar > Ana Sayfa Slaytı > Bu "
+"gönderiyi ana sayfanızdaki slayta ekleyin (kutuyu işaretleyin)\"."
+
+#: inc/customizer/customizer.php:1330 loco:6765f518ad08e11e0d02045a
+msgid "Type of Posts for the Carousel (setting description)"
+msgstr "Slayt için Gönderi Türü (ayar açıklaması)"
+
+#: inc/customizer/customizer.php:1351 loco:6765f518ad08e11e0d02045b
+msgid "Category For Carousel Items"
+msgstr "Slayt Öğeleri Kategorisi"
+
+#: inc/customizer/customizer.php:1362 loco:6765f518ad08e11e0d02045c
+msgid ""
+"The category selection setting only works if the carousel displays posts by "
+"category (Homepage Carousel > What type of posts should be shown in the "
+"carousel? > Posts by category)."
+msgstr ""
+"Kategori seçimi ayarı, yalnızca slayt gönderileri kategoriye göre "
+"gösteriyorsa çalışır (Ana Sayfa Slaytı > Slaytta ne tür gönderiler "
+"gösterilmeli? > Kategoriye göre gönderiler)."
+
+#: inc/customizer/customizer.php:1372 loco:6765f518ad08e11e0d02045d
+msgid "Category for Carousel Items (setting description)"
+msgstr "Slayt Öğeleri için Kategori (ayar açıklaması)"
+
+#: inc/customizer/customizer.php:1393 loco:6765f518ad08e11e0d02045e
+msgid "Order By"
+msgstr "Sıralama Ölçütü"
+
+#: inc/customizer/customizer.php:1396 loco:6765f518ad08e11e0d02045f
+msgid "Random order"
+msgstr "Rastgele düzen"
+
+#: inc/customizer/customizer.php:1397 loco:6765f518ad08e11e0d020460
+msgid "Publication date"
+msgstr "Yayın tarihi"
+
+#: inc/customizer/customizer.php:1398 loco:6765f518ad08e11e0d020461
+msgid "Number of comments"
+msgstr "Yorum sayısı"
+
+#: inc/customizer/customizer.php:1417 loco:6765f518ad08e11e0d020462
+msgid ""
+"Enable rewind (Move to the opposite edge when reaching the first or last "
+"carousel item)"
+msgstr ""
+"Geri sarmayı etkinleştir (İlk veya son slayt öğesine ulaştığınızda diğer "
+"gidin)"
+
+#: inc/customizer/customizer.php:1437 loco:6765f518ad08e11e0d020463
+msgid "Carousel Animation Speed (in \"ms\")"
+msgstr "Slayt Animasyon Hızı (\"ms\" cinsinden)"
+
+#: inc/customizer/customizer.php:1449 inc/customizer/customizer.php:2112
+#: loco:6765f518ad08e11e0d020464
+msgid "Default value: 500. Recommended range of values: 300...800."
+msgstr "Varsayılan değer: 500. Önerilen değer aralığı: 300...800."
+
+#: inc/customizer/customizer.php:1459 loco:6765f518ad08e11e0d020465
+msgid "Carousel Animation Speed (setting description)"
+msgstr "Slayt Animasyon Hızı (ayar açıklaması)"
+
+#: inc/customizer/customizer.php:1480 loco:6765f518ad08e11e0d020466
+msgid "Show navigation buttons (Next/Previous)"
+msgstr "Dolaşım düğmelerini göster (Sonraki/Önceki)"
+
+#: inc/customizer/customizer.php:1499 loco:6765f518ad08e11e0d020467
+msgid "Show pagination (Dots)"
+msgstr "Sayfalandırmayı göster (Noktalar)"
+
+#: inc/customizer/customizer.php:1518 loco:6765f518ad08e11e0d020468
+msgid "Enable hover effects when hovering over a carousel item"
+msgstr ""
+"Slayt öğesinin üzerine gelindiğinde üzerine gelme efektlerini etkinleştir"
+
+#: inc/customizer/customizer.php:1543 loco:6765f518ad08e11e0d020469
+msgid "Carousel Content"
+msgstr "Slayt İçeriği"
+
+#: inc/customizer/customizer.php:1564 inc/customizer/customizer.php:1930
+#: inc/customizer/customizer.php:2350 loco:6765f518ad08e11e0d02046a
+msgid "Show categories"
+msgstr "Kategorileri göster"
+
+#: inc/customizer/customizer.php:1583 inc/customizer/customizer.php:1892
+#: loco:6765f518ad08e11e0d02046b
+msgid "Show date"
+msgstr "Tarihi göster"
+
+#: inc/customizer/customizer.php:1602 inc/customizer/customizer.php:1911
+#: inc/customizer/customizer.php:2288 inc/customizer/customizer.php:2554
+#: loco:6765f518ad08e11e0d02046c
+msgid "Show author"
+msgstr "Yazarı göster"
+
+#: inc/customizer/customizer.php:1617 loco:6765f518ad08e11e0d02046d
+msgid "Blog Posts"
+msgstr "Blog Yazıları"
+
+#: inc/customizer/customizer.php:1627 loco:6765f518ad08e11e0d02046e
+msgid ""
+"In this section you can find settings for the section with your latest "
+"posts. Your latest posts appear on your homepage and archive pages (category "
+"and tag pages, date page, and so on)."
+msgstr ""
+"Bu bölümde, en son yazılarınızın bulunduğu bölümün ayarlarını "
+"bulabilirsiniz. En son yazılarınız ana sayfanızda ve arşiv sayfalarınızda "
+"(kategori ve etiket sayfaları, tarih sayfası vb.) görünür."
+
+#: inc/customizer/customizer.php:1637 loco:6765f518ad08e11e0d02046f
+msgid "Blog Posts: Description of the Settings Section"
+msgstr "Blog Yazıları: Ayarlar Bölümünün Açıklaması"
+
+#: inc/customizer/customizer.php:1658 loco:6765f518ad08e11e0d020470
+msgid ""
+"Show page numbers (Current page number and total number of blog pages: "
+"\"Page 1 of 14\")"
+msgstr ""
+"Sayfa numaralarını göster (Geçerli sayfa numarası ve blog sayfalarının "
+"toplam sayısı: \"Sayfa 1 / 14\")"
+
+#: inc/customizer/customizer.php:1677 loco:6765f518ad08e11e0d020471
+msgid "Enable switching between layouts (Three columns or One column)"
+msgstr "Düzenler arasında geçişi etkinleştir (Üç sütun veya Bir sütun)"
+
+#: inc/customizer/customizer.php:1696 loco:6765f518ad08e11e0d020472
+msgid "Default Layout"
+msgstr "Varsayılan Düzen"
+
+#: inc/customizer/customizer.php:1699 loco:6765f518ad08e11e0d020473
+msgid "One column"
+msgstr "Bir sütun"
+
+#: inc/customizer/customizer.php:1700 loco:6765f518ad08e11e0d020474
+msgid "Three columns"
+msgstr "Üç sütun"
+
+#: inc/customizer/customizer.php:1710 loco:6765f518ad08e11e0d020475
+msgid ""
+"This setting changes the default layout (One column or Three columns). "
+"Important! If your current browser has the \"halva_blog_layout\" cookie, "
+"then the layout will not change in that browser. The layout will change for "
+"visitors who do not have this cookie. If the layout switching feature is "
+"disabled, the \"halva_blog_layout\" cookie is not used (Blog Posts > Enable "
+"switching between layouts > Disable)."
+msgstr ""
+"Bu ayar varsayılan düzeni değiştirir (Bir sütun veya Üç sütun). Önemli! "
+"Mevcut tarayıcınızda \"halva_blog_layout\" çerezi varsa, o tarayıcıda düzen "
+"değişmeyecektir. Bu çereze sahip olmayan ziyaretçiler için düzen "
+"değişecektir. Düzen değiştirme özelliği devre dışı bırakılırsa, "
+"\"halva_blog_layout\" çerezi kullanılmaz (Blog Yazıları > Düzenler arasında "
+"geçişi etkinleştir > Devre Dışı Bırak)."
+
+#: inc/customizer/customizer.php:1720 loco:6765f518ad08e11e0d020476
+msgid "Default Layout (setting description)"
+msgstr "Varsayılan Düzen (ayar açıklaması)"
+
+#: inc/customizer/customizer.php:1741 loco:6765f518ad08e11e0d020477
+msgid ""
+"Enable horizontal (left-to-right) order for blog posts (Layout: Three "
+"columns)"
+msgstr ""
+"Blog yazıları için yatay (soldan sağa) sıralamayı etkinleştir (Düzen: Üç "
+"sütun)"
+
+#: inc/customizer/customizer.php:1766 loco:6765f518ad08e11e0d020478
+msgid "Posts"
+msgstr "Yazılar"
+
+#: inc/customizer/customizer.php:1787 loco:6765f518ad08e11e0d020479
+msgid "Featured Image: Link Type"
+msgstr "Öne Çıkan Resim: Bağlantı Türü"
+
+#: inc/customizer/customizer.php:1790 loco:6765f518ad08e11e0d02047a
+msgid "Link to post"
+msgstr "Yazı bağlantısı"
+
+#: inc/customizer/customizer.php:1791 loco:6765f518ad08e11e0d02047b
+msgid "Link to image"
+msgstr "Resim bağlantısı"
+
+#: inc/customizer/customizer.php:1810 loco:6765f518ad08e11e0d02047c
+msgid "Enable hover effects when you hover on featured images"
+msgstr ""
+"Öne çıkan görsellerin üzerine geldiğinizde fareyle üzerine gelme efektlerini "
+"etkinleştirin"
+
+#: inc/customizer/customizer.php:1829 loco:6765f518ad08e11e0d02047d
+msgid "Increase the size of small featured images"
+msgstr "Öne çıkan küçük resimlerin boyutunu artırın"
+
+#: inc/customizer/customizer.php:1849 loco:6765f518ad08e11e0d02047e
+msgid "Post Excerpt Length (Number Of Words)"
+msgstr "Gönderi Alıntı Uzunluğu (Kelime Sayısı)"
+
+#: inc/customizer/customizer.php:1861 loco:6765f518ad08e11e0d02047f
+msgid ""
+"Basic post formats display an automatic excerpt generated from the full "
+"content (basic formats: standard, image, gallery, audio, and video). Other "
+"post formats display full content instead of automatic excerpt (formats: "
+"aside, link, quote, status, and chat). Use the \"Read More\" block (or tag) "
+"to create an excerpt for these special formats."
+msgstr ""
+"Temel yazı biçimleri, tam içerikten oluşturulan otomatik bir alıntı "
+"görüntüler (temel biçimler: standart, resim, galeri, ses ve video). Diğer "
+"yazı biçimleri, otomatik alıntı yerine tam içeriği görüntüler (biçimler: "
+"kenar, bağlantı, alıntı, durum ve sohbet). Bu özel biçimler için bir alıntı "
+"oluşturmak için \"Devamını Oku\" bloğunu (veya etiketini) kullanın."
+
+#: inc/customizer/customizer.php:1871 loco:6765f518ad08e11e0d020480
+msgid "Post Excerpt (setting description)"
+msgstr "Gönderi Alıntısı (ayar açıklaması)"
+
+#: inc/customizer/customizer.php:1949 loco:6765f518ad08e11e0d020481
+msgid "Show the \"Read more\" link"
+msgstr "\"Devamını oku\" bağlantısını gösterin"
+
+#: inc/customizer/customizer.php:1967 loco:6765f518ad08e11e0d020482
+msgid "Text For The \"Read More\" Link"
+msgstr "\"Daha Fazla Oku\" Bağlantısı İçin Metin"
+
+#: inc/customizer/customizer.php:1990 inc/customizer/customizer.php:2310
+#: inc/customizer/customizer.php:2576 loco:6765f518ad08e11e0d020483
+msgid "Show views counter"
+msgstr "Görüntüleme sayacını göster"
+
+#: inc/customizer/customizer.php:2011 inc/customizer/customizer.php:2331
+#: inc/customizer/customizer.php:2597 loco:6765f518ad08e11e0d020484
+msgid "Show comments counter"
+msgstr "Yorum sayacını göster"
+
+#: inc/customizer/customizer.php:2036 loco:6765f518ad08e11e0d020485
+msgid "Gallery Format: Slider Options"
+msgstr "Galeri Biçimi: Slayt Seçenekleri"
+
+#: inc/customizer/customizer.php:2057 loco:6765f518ad08e11e0d020486
+msgid ""
+"Enable rewind (Move to the opposite edge when reaching the first or last "
+"slide)"
+msgstr ""
+"Geri sarmayı etkinleştir (İlk veya son slayta ulaştığınızda karşı kenara "
+"gidin)"
+
+#: inc/customizer/customizer.php:2076 loco:6765f518ad08e11e0d020487
+msgid "Transition Type For Slides"
+msgstr "Slaytlar İçin Geçiş Türü"
+
+#: inc/customizer/customizer.php:2079 loco:6765f518ad08e11e0d020488
+msgid "Fade animation"
+msgstr "Solma animasyonu"
+
+#: inc/customizer/customizer.php:2080 loco:6765f518ad08e11e0d020489
+msgid "Slide horizontal"
+msgstr "Yatay kaydırın"
+
+#: inc/customizer/customizer.php:2100 loco:6765f518ad08e11e0d02048a
+msgid "Speed Of The Slide Animation (in \"ms\")"
+msgstr "Slayt Animasyonunun Hızı (\"ms\" cinsinden)"
+
+#: inc/customizer/customizer.php:2122 loco:6765f518ad08e11e0d02048b
+msgid "Speed of the Slide Animation (setting description)"
+msgstr "Slayt Animasyonunun Hızı (ayar açıklaması)"
+
+#: inc/customizer/customizer.php:2139 loco:6765f518ad08e11e0d02048c
+msgid "Single Pages"
+msgstr "Tek Sayfalar"
+
+#: inc/customizer/customizer.php:2164 loco:6765f518ad08e11e0d02048d
+msgid "Featured Image"
+msgstr "Öne Çıkan Resim"
+
+#: inc/customizer/customizer.php:2185 loco:6765f518ad08e11e0d02048e
+msgid ""
+"Featured image (or Slider images): Show cropped image instead of full image"
+msgstr ""
+"Öne çıkan görsel (veya Slayt görselleri): Tam görsel yerine kırpılan görseli "
+"gösterin"
+
+#: inc/customizer/customizer.php:2204 loco:6765f518ad08e11e0d02048f
+msgid "Enable lightbox functionality for your featured image and slider images"
+msgstr ""
+"Öne çıkan resminiz ve slayt resimleriniz için lightbox işlevini etkinleştirin"
+
+#: inc/customizer/customizer.php:2219 loco:6765f518ad08e11e0d020490
+msgid ""
+"Settings for displaying elements located on a single post page. You can "
+"create or edit posts here: \"WordPress Dashboard > Posts\"."
+msgstr ""
+"Tekli gönderi sayfasında bulunan öğeleri görüntüleme ayarları. Burada "
+"gönderi oluşturabilir veya düzenleyebilirsiniz: \"WordPress Başlangıç > "
+"Yazılar\"."
+
+#: inc/customizer/customizer.php:2229 loco:6765f518ad08e11e0d020491
+msgid "Single Post Page"
+msgstr "Tek Gönderi Sayfası"
+
+#: inc/customizer/customizer.php:2250 loco:6765f518ad08e11e0d020492
+msgid "Show publication date (The date when the post was published)"
+msgstr "Yayınlanma tarihini göster (Yazının yayınlandığı tarih)"
+
+#: inc/customizer/customizer.php:2269 loco:6765f518ad08e11e0d020493
+msgid ""
+"Show update date (The date when the post was last updated). Important note: "
+"If the update date and the publication date are the same, the update date "
+"will be hidden"
+msgstr ""
+"Güncelleme tarihini göster (Yazının en son güncellendiği tarih). Önemli not: "
+"Güncelleme tarihi ve yayın tarihi aynı ise güncelleme tarihi gizlenecektir"
+
+#: inc/customizer/customizer.php:2369 loco:6765f518ad08e11e0d020494
+msgid "Show tags"
+msgstr "Etiketleri göster"
+
+#: inc/customizer/customizer.php:2388 loco:6765f518ad08e11e0d020495
+msgid "Show \"About the author\" section"
+msgstr "\"Yazar hakkında\" bölümünü göster"
+
+#: inc/customizer/customizer.php:2398 loco:6765f518ad08e11e0d020496
+msgid ""
+"You can add information about yourself in your profile settings: \"WordPress "
+"Dashboard > Users > Profile > About Yourself > Biographical Info\"."
+msgstr ""
+"Profil ayarlarınıza kendinizle ilgili bilgileri ekleyebilirsiniz: "
+"\"WordPress Başlangıç > Kullanıcılar > Profil > Hakkınızda > Biyografik "
+"Bilgi\"."
+
+#: inc/customizer/customizer.php:2408 loco:6765f518ad08e11e0d020497
+msgid "Show \"About the author\" section (setting description)"
+msgstr "\"Yazar hakkında\" bölümünü göster (ayar açıklaması)"
+
+#: inc/customizer/customizer.php:2429 loco:6765f518ad08e11e0d020498
+msgid "Show navigation between next and previous posts"
+msgstr "Sonraki ve önceki gönderiler arasında dolaşımı göster"
+
+#: inc/customizer/customizer.php:2448 loco:6765f518ad08e11e0d020499
+msgid "Show related posts"
+msgstr "İlgili Yazıları Göster"
+
+#: inc/customizer/customizer.php:2458 loco:6765f518ad08e11e0d02049a
+msgid ""
+"This section displays posts that have at least one tag, which the current "
+"post also has. If the current post has no tags, then it has no related "
+"posts. If other posts do not have tags that the current post has, then the "
+"current post also has no related posts."
+msgstr ""
+"Bu bölüm, geçerli yazının da sahip olduğu en az bir etikete sahip olan "
+"yazıları görüntüler. Geçerli yazının etiketi yoksa, ilgili yazısı da yoktur. "
+"Diğer yazılarda geçerli yazının sahip olduğu etiketler yoksa, geçerli "
+"yazının da ilgili gönderisi yoktur."
+
+#: inc/customizer/customizer.php:2468 loco:6765f518ad08e11e0d02049b
+msgid "Show related posts (setting description)"
+msgstr "İlgili yazıları göster (ayar açıklaması)"
+
+#: inc/customizer/customizer.php:2485 loco:6765f518ad08e11e0d02049c
+msgid ""
+"Settings for displaying elements located on a single page. You can create or "
+"edit pages here: \"WordPress Dashboard > Pages\"."
+msgstr ""
+"Tekli sayfada bulunan öğeleri görüntüleme ayarları. Burada sayfa "
+"oluşturabilir veya düzenleyebilirsiniz: \"WordPress Başlangıç > Sayfalar\"."
+
+#: inc/customizer/customizer.php:2495 loco:6765f518ad08e11e0d02049d
+msgid "Single Page"
+msgstr "Tek Sayfa"
+
+#: inc/customizer/customizer.php:2516 loco:6765f518ad08e11e0d02049e
+msgid "Show publication date (The date when the page was published)"
+msgstr "Yayınlanma tarihini göster (Sayfanın yayımlandığı tarih)"
+
+#: inc/customizer/customizer.php:2535 loco:6765f518ad08e11e0d02049f
+msgid ""
+"Show update date (The date when the page was last updated). Important note: "
+"If the update date and the publication date are the same, the update date "
+"will be hidden"
+msgstr ""
+"Güncelleme tarihini göster (Sayfanın en son güncellendiği tarih). Önemli "
+"not: Güncelleme tarihi ve yayın tarihi aynı ise güncelleme tarihi "
+"gizlenecektir"
+
+#: inc/customizer/customizer.php:2616 loco:6765f518ad08e11e0d0204a0
+msgid "Show random posts at the bottom of the page"
+msgstr "Sayfanın alt kısmında rastgele yazılar göster"
+
+#: inc/customizer/customizer.php:2631 loco:6765f518ad08e11e0d0204a1
+msgid "Footer"
+msgstr "Altbilgi"
+
+#: inc/customizer/customizer.php:2641 loco:6765f518ad08e11e0d0204a2
+msgid ""
+"You can display the following elements in the footer area of your site: "
+"Widgets, Custom text, and Footer menu. 1. Widgets. Widgets can be added on "
+"the Widgets page: \"WordPress Dashboard > Appearance > Widgets\". 2. Custom "
+"text. The text for the site footer usually contains copyright information. "
+"You can add this information to the text field below. It is also allowed to "
+"add links and icons to this text (The \"a\" tag is used for links, the \"i\" "
+"tag is used for icons. All available icons you can find on the Font Awesome "
+"site - the link is available in the documentation, section \"Credits\"). 3. "
+"Menu. You can add and customize your menu on the Menus page: \"WordPress "
+"Dashboard > Appearance > Menus\"."
+msgstr ""
+"Sitenizin altbilgi alanında şu öğeleri görüntüleyebilirsiniz: Bileşenler, "
+"Özel metin ve Altbilgi menüsü. 1. Bileşenler. Bileşenler bileşenler "
+"sayfasına eklenebilir: \"WordPress Başlangıç> Görünüm > Bileşenler\". 2. "
+"Özel metin. Site altbilgisinin metni genellikle telif hakkı bilgilerini "
+"içerir. Bu bilgileri aşağıdaki metin alanına ekleyebilirsiniz. Bu metne "
+"bağlantılar ve simgeler eklenmesine de izin verilir (Bağlantılar için \"a\" "
+"etiketi, simgeler için \"i\" etiketi kullanılır. Font Awesome sitesinde "
+"bulabileceğiniz mevcut tüm simgeler - bağlantı belgelerde, \"Katkıda "
+"Bulunanlar\" bölümünde mevcuttur). 3. Menü. Menünüzü Menüler sayfasında "
+"ekleyebilir ve özelleştirebilirsiniz: \"WordPress Başlangıç> Görünüm > "
+"Menüler\"."
+
+#: inc/customizer/customizer.php:2651 loco:6765f518ad08e11e0d0204a3
+msgid "Footer: Description of the Settings Section"
+msgstr "Altbilgi: Ayarlar Bölümünün Açıklaması"
+
+#: inc/customizer/customizer.php:2671 loco:6765f518ad08e11e0d0204a4
+msgid "Copyright Text"
+msgstr "Telif Hakkı Metni"
+
+#: inc/customizer/customizer.php:2682 loco:6765f518ad08e11e0d0204a5
+msgid ""
+"Add your text for the site footer. You can use the following HTML tags: p, "
+"a, span, strong, b, em, i, br. The following attributes are allowed for "
+"these tags: \"p - class\", \"a - href, title, target, class, rel\", \"span - "
+"class\", \"i - class\"."
+msgstr ""
+"Site altbilgisi için metninizi ekleyin. Şu HTML etiketlerini "
+"kullanabilirsiniz: p, a, span, strong, b, em, i, br. Bu etiketler için şu "
+"niteliklere izin verilir: \"p - class\", \"a - href, title, target, class, "
+"rel\", \"span - class\", \"i - class\"."
+
+#: inc/customizer/customizer.php:2692 loco:6765f518ad08e11e0d0204a6
+msgid "Copyright Text: Allowed HTML Tags"
+msgstr "Telif Hakkı Metni: İzin Verilen HTML Etiketleri"
+
+#: inc/customizer/customizer.php:2709 loco:6765f518ad08e11e0d0204a7
+msgid "Sticky Buttons"
+msgstr "Yapışkan Düğmeler"
+
+#: inc/customizer/customizer.php:2719 loco:6765f518ad08e11e0d0204a8
+msgid ""
+"Sticky buttons is a bar on the right side of the page that includes the "
+"following buttons: 1 - Sidebar button, 2 - Button to toggle between light "
+"and dark modes, 3 - Button to toggle between font types, 4 - Search button "
+"and dropdown search form, 5 - Back To Top button."
+msgstr ""
+"Yapışkan düğmeler, sayfanın sağ tarafında bulunan ve aşağıdaki düğmeleri "
+"içeren bir çubuktur: 1 - Kenar çubuğu düğmesi, 2 - Adınlık ve koyu modlar "
+"arasında geçiş yapmak için düğme, 3 - Yazı tipi türleri arasında geçiş "
+"yapmak için düğme, 4 - Arama düğmesi ve açılır arama formu, 5 - Başa Dön "
+"düğmesi."
+
+#: inc/customizer/customizer.php:2729 loco:6765f518ad08e11e0d0204a9
+msgid "Sticky Buttons: Description of the Settings Section"
+msgstr "Yapışkan Düğmeler: Ayarlar Bölümünün Açıklaması"
+
+#: inc/customizer/customizer.php:2750 loco:6765f518ad08e11e0d0204aa
+msgid "Button: Show hidden sidebar (arrow icon)"
+msgstr "Düğme: Gizli kenar çubuğunu göster (ok simgesi)"
+
+#: inc/customizer/customizer.php:2760 loco:6765f518ad08e11e0d0204ab
+msgid ""
+"If there are no widgets in the sidebar, then the sidebar button along with "
+"the sidebar will not be displayed."
+msgstr ""
+"Kenar çubuğunda bileşen yoksa, kenar çubuğuyla birlikte kenar çubuğu düğmesi "
+"de görüntülenmez."
+
+#: inc/customizer/customizer.php:2770 loco:6765f518ad08e11e0d0204ac
+msgid "Button: Show hidden sidebar (setting description)"
+msgstr "Düğme: Gizli kenar çubuğunu göster (ayar açıklaması)"
+
+#: inc/customizer/customizer.php:2791 loco:6765f518ad08e11e0d0204ad
+msgid "Button: Toggle color mode (moon/sun icon)"
+msgstr "Düğme: Renk modunu değiştir (ay/güneş simgesi)"
+
+#: inc/customizer/customizer.php:2810 loco:6765f518ad08e11e0d0204ae
+msgid "Default Color Mode: Light or Dark"
+msgstr "Varsayılan Renk Modu: Açık veya Koyu"
+
+#: inc/customizer/customizer.php:2813 loco:6765f518ad08e11e0d0204af
+msgid "Light mode"
+msgstr "Işık modu"
+
+#: inc/customizer/customizer.php:2814 loco:6765f518ad08e11e0d0204b0
+msgid "Dark mode"
+msgstr "Karanlık mod"
+
+#: inc/customizer/customizer.php:2824 loco:6765f518ad08e11e0d0204b1
+msgid ""
+"This setting changes the default color mode for your site (Light or Dark). "
+"Important! If your current browser has the \"halva_color_scheme\" cookie, "
+"then your site's color mode will not change in that browser. The color mode "
+"will change for visitors who do not have this cookie."
+msgstr ""
+"Bu ayar, siteniz için varsayılan renk modunu (Aydınlık veya Koyu) "
+"değiştirir. Önemli! Mevcut tarayıcınızda \"halva_color_scheme\" çerezi "
+"varsa, sitenizin renk modu o tarayıcıda değişmeyecektir. Bu çereze sahip "
+"olmayan ziyaretçiler için renk modu değişecektir."
+
+#: inc/customizer/customizer.php:2834 loco:6765f518ad08e11e0d0204b2
+msgid "Default Color Mode (setting description)"
+msgstr "Varsayılan Renk Modu (ayar açıklaması)"
+
+#: inc/customizer/customizer.php:2855 loco:6765f518ad08e11e0d0204b3
+msgid "Button: Toggle between font types (font icon)"
+msgstr "Düğme: Yazı tipi türleri arasında geçiş yap (yazı tipi simgesi)"
+
+#: inc/customizer/customizer.php:2874 loco:6765f518ad08e11e0d0204b4
+msgid "Default Fonts: Sans-serif or Serif"
+msgstr "Varsayılan Yazı Tipleri: Sans-serif veya Serif"
+
+#: inc/customizer/customizer.php:2888 loco:6765f518ad08e11e0d0204b5
+msgid ""
+"This setting changes the default fonts (Sans-serif or Serif fonts). "
+"Important! If your current browser has the \"halva_font_type\" cookie, then "
+"the fonts will not change in that browser. The fonts will change for "
+"visitors who do not have this cookie."
+msgstr ""
+"Bu ayar varsayılan yazı tiplerini (Sans-serif veya Serif yazı tipleri) "
+"değiştirir. Önemli! Mevcut tarayıcınızda \"halva_font_type\" çerezi varsa, o "
+"tarayıcıdaki yazı tipleri değişmeyecektir. Bu çereze sahip olmayan "
+"ziyaretçiler için yazı tipleri değişecektir."
+
+#: inc/customizer/customizer.php:2898 loco:6765f518ad08e11e0d0204b6
+msgid "Default Fonts (setting description)"
+msgstr "Varsayılan Yazı Tipleri (ayar açıklaması)"
+
+#: inc/customizer/customizer.php:2919 loco:6765f518ad08e11e0d0204b7
+msgid "Button: Show/hide search form (search icon)"
+msgstr "Düğme: Arama formunu göster/gizle (arama simgesi)"
+
+#: inc/customizer/customizer.php:2938 loco:6765f518ad08e11e0d0204b8
+msgid ""
+"Button: Back to top. Note: This button is not available on mobile devices"
+msgstr "Düğme: Başa dön. Not: Bu düğme mobil cihazlarda kullanılamaz"
+
+#: inc/customizer/customizer.php:2953 loco:6765f518ad08e11e0d0204b9
+msgid "Colors And Styles"
+msgstr "Renkler ve Stiller"
+
+#: inc/customizer/customizer.php:2978 loco:6765f518ad08e11e0d0204ba
+msgid "Colors"
+msgstr "Renkler"
+
+#: inc/customizer/customizer.php:3000 loco:6765f518ad08e11e0d0204bb
+msgid "Light Mode: Hover/Active Color (Default Color: #786fff)"
+msgstr "Aydınlık Mod: Vurgulu/Aktif Renk (Varsayılan Renk: #786fff)"
+
+#: inc/customizer/customizer.php:3022 loco:6765f518ad08e11e0d0204bc
+msgid "Dark Mode: Hover/Active Color (Default Color: #877fff)"
+msgstr "Karanlık Mod: Vurgulu/Aktif Renk (Varsayılan Renk: #877fff)"
+
+#: inc/customizer/customizer.php:3049 loco:6765f518ad08e11e0d0204bd
+msgid "Styles"
+msgstr "Stiller"
+
+#: inc/customizer/customizer.php:3070 loco:6765f518ad08e11e0d0204be
+msgid ""
+"Add text transformation for some text elements (text-transform: capitalize)"
+msgstr ""
+"Bazı metin öğeleri için metin dönüşümü ekleyin (text-transform: capitalize)"
+
+#: inc/customizer/customizer.php:3080 loco:6765f518ad08e11e0d0204bf
+msgid ""
+"This option adds the \"text-transform: capitalize\" property to some text "
+"elements. Example: \"You may also like\" > \"You May Also Like\"."
+msgstr ""
+"Bu seçenek, bazı metin öğelerine \"text-transform: capitalize\" özelliğini "
+"ekler. Örnek: \"Bunu da beğenebilirsiniz\" > \"Bunu Da Beğenebilirsiniz\"."
+
+#: inc/customizer/customizer.php:3090 loco:6765f518ad08e11e0d0204c0
+msgid "Add text transformation for some text elements (setting description)"
+msgstr "Bazı metin öğeleri için metin dönüşümü ekleme (ayar açıklaması)"
+
+#: inc/customizer/customizer.php:3111 loco:6765f518ad08e11e0d0204c1
+msgid ""
+"Enable hover effects when hovering over a widget image. Note: These styles "
+"only apply to additional widgets in the Halva theme"
+msgstr ""
+"Bir widget görüntüsünün üzerine gelindiğinde fareyle üzerine gelme "
+"efektlerini etkinleştirin. Not: Bu stiller yalnızca Halva temasındaki ek "
+"widget'lar için geçerlidir"
+
+#: inc/customizer/customizer.php:3126 loco:6765f518ad08e11e0d0204c2
+msgid "Cookies"
+msgstr "Çerezler"
+
+#: inc/customizer/customizer.php:3136 loco:6765f518ad08e11e0d0204c3
+msgid ""
+"HTTP cookies (also called web cookies, Internet cookies, browser cookies, or "
+"simply cookies) are small blocks of data created by a web server while a "
+"user is browsing a website and placed on the user's computer or other device "
+"by the user's web browser. This theme uses cookies to store the selected "
+"blog layout (One column or Three columns), color mode (Light or Dark), and "
+"selected fonts (Serif fonts or Sans-serif fonts). In the settings below you "
+"can allow or disallow the use of cookies."
+msgstr ""
+"HTTP çerezleri (web çerezleri, internet çerezleri, tarayıcı çerezleri veya "
+"basitçe çerezler olarak da adlandırılır), bir kullanıcı bir web sitesinde "
+"gezinirken bir web sunucusu tarafından oluşturulan ve kullanıcının web "
+"tarayıcısı tarafından kullanıcının bilgisayarına veya başka bir cihaza "
+"yerleştirilen küçük veri bloklarıdır. Bu tema, seçilen blog düzenini (Bir "
+"sütun veya Üç sütun), renk modunu (Aydınlık veya Koyu) ve seçilen yazı "
+"tiplerini (Serif yazı tipleri veya Sans-serif yazı tipleri) depolamak için "
+"çerezleri kullanır. Aşağıdaki ayarlarda çerezlerin kullanımına izin "
+"verebilir veya vermeyebilirsiniz."
+
+#: inc/customizer/customizer.php:3146 loco:6765f518ad08e11e0d0204c4
+msgid "Cookies: Description of the Settings Section"
+msgstr "Çerezler: Ayarlar bölümünün açıklaması"
+
+#: inc/customizer/customizer.php:3173 loco:6765f518ad08e11e0d0204c5
+msgid "Cookies: Enable/Disable"
+msgstr "Çerezler: Etkinleştir/Devre Dışı Bırak"
+
+#: inc/customizer/customizer.php:3194 loco:6765f518ad08e11e0d0204c6
+msgid "Use a cookie to save the selected layout (one column or three columns)?"
+msgstr ""
+"Seçilen düzeni (bir sütun ya da üç sütun) kaydetmek için bir çerez "
+"kullanısın mı?"
+
+#: inc/customizer/customizer.php:3213 loco:6765f518ad08e11e0d0204c7
+msgid "Use a cookie to save the selected color mode (light or dark)?"
+msgstr ""
+"Seçilen renk modunu (aydınlık veya koyu) kaydetmek için bir çerez "
+"kullanılsın mı?"
+
+#: inc/customizer/customizer.php:3232 loco:6765f518ad08e11e0d0204c8
+msgid ""
+"Use a cookie to save the selected type of fonts (sans-serif fonts or serif "
+"fonts)?"
+msgstr ""
+"Seçilen yazı tipi türünü (sans-serif yazı tipleri veya serif yazı tipleri) "
+"kaydetmek için bir çerez kullanılsın mı?"
+
+#: inc/customizer/customizer.php:3260 loco:6765f518ad08e11e0d0204c9
+msgid "Cookies Notice"
+msgstr "Çerez Bildirimi"
+
+#: inc/customizer/customizer.php:3281 loco:6765f518ad08e11e0d0204ca
+msgid "Show cookies notice"
+msgstr "Çerez bildirimini göster"
+
+#: inc/customizer/customizer.php:3300 loco:6765f518ad08e11e0d0204cb
+msgid "Cookies Notice On Mobile Devices"
+msgstr "Mobil Cihazlarda Çerez Bildirimi"
+
+#: inc/customizer/customizer.php:3303 loco:6765f518ad08e11e0d0204cc
+msgid "Hidden notification"
+msgstr "Gizli bildirim"
+
+#: inc/customizer/customizer.php:3304 loco:6765f518ad08e11e0d0204cd
+msgid "Visible notification"
+msgstr "Görünür bildirim"
+
+#: inc/customizer/customizer.php:3322 loco:6765f518ad08e11e0d0204ce
+msgid "Cookies Notice: Title (Required Field)"
+msgstr "Çerez Bildirimi: Başlık (Doldurulması zorunlu alan)"
+
+#: inc/customizer/customizer.php:3341 loco:6765f518ad08e11e0d0204cf
+msgid "Cookies Notice: Text (Required Field)"
+msgstr "Çerez Bildirimi: Metin (Gerekli Alan)"
+
+#: inc/customizer/customizer.php:3352 loco:6765f518ad08e11e0d0204d0
+msgid ""
+"Add your text with information about the use of cookies on your site. You "
+"can use the following HTML tags: p, a, span, strong, b, em, i, br. The "
+"following attributes are allowed for these tags: \"p - class\", \"a - href, "
+"title, target, class, rel\", \"span - class\", \"i - class\"."
+msgstr ""
+"Sitenizde çerezlerin kullanımı hakkında bilgi içeren metninizi ekleyin. Şu "
+"HTML etiketlerini kullanabilirsiniz: p, a, span, strong, b, em, i, br. Bu "
+"etiketler için şu niteliklere izin verilir: \"p - class\", \"a - href, "
+"title, target, class, rel\", \"span - class\", \"i - class\"."
+
+#: inc/customizer/customizer.php:3362 loco:6765f518ad08e11e0d0204d1
+msgid "Cookies Notice Text: Allowed HTML Tags"
+msgstr "Çerez Bildirim Metni: İzin Verilen HTML Etiketleri"
+
+#: inc/customizer/customizer.php:3382 loco:6765f518ad08e11e0d0204d2
+msgid "Cookies Notice: Button Text (Required Field)"
+msgstr "Çerez Bildirimi: Buton Metni (Gerekli Alan)"
+
+#: inc/post-meta-boxes/meta-boxes.php:24 loco:6765f518ad08e11e0d0204d3
+msgid "Additional Settings"
+msgstr "Ek Ayarlar"
+
+#: inc/post-meta-boxes/meta-boxes.php:38 loco:6765f518ad08e11e0d0204d4
+msgid "Homepage carousel"
+msgstr "Ana Sayfa Slaytı"
+
+#: inc/post-meta-boxes/meta-boxes.php:43 loco:6765f518ad08e11e0d0204d5
+msgid "Add this post to the carousel on your homepage"
+msgstr "Bu gönderiyi ana sayfanızdaki slayta ekleyin"
+
+#: inc/post-meta-boxes/meta-boxes.php:51 loco:6765f518ad08e11e0d0204d6
+msgid "Add an image for the carousel"
+msgstr "Slayt için bir görsel ekleyin"
+
+#: inc/post-meta-boxes/meta-boxes.php:52 loco:6765f518ad08e11e0d0204d7
+msgid ""
+"This image will be displayed in the carousel. If there is no alternative "
+"image, the carousel will display the Featured Image for that post."
+msgstr ""
+"Bu resim slaytta görüntülenecektir. Alternatif bir görsel yoksa slaytta o "
+"gönderi için Öne Çıkan Görsel gösterilir."
+
+#: inc/post-meta-boxes/meta-boxes.php:66 loco:6765f518ad08e11e0d0204d8
+msgid "Single post page: Featured media"
+msgstr "Tek gönderi sayfası: Öne çıkan medya"
+
+#: inc/post-meta-boxes/meta-boxes.php:71 loco:6765f518ad08e11e0d0204d9
+msgid "Show or hide your featured media on the post page?"
+msgstr "Öne çıkan medyanızı gönderi sayfasında gösterin veya gizleyin?"
+
+#: inc/post-meta-boxes/meta-boxes.php:72 loco:6765f518ad08e11e0d0204da
+msgid ""
+"Default value: Show. Featured media appears at the top of the post page "
+"under the post title. Featured media includes: featured image, slider, "
+"video, and audio."
+msgstr ""
+"Varsayılan değer: Göster. Öne çıkan medya, yazı sayfasının üst kısmında, "
+"yazı başlığının altında görünür. Öne çıkan medya şunları içerir: öne çıkan "
+"görüntü, slayt, video ve ses."
+
+#: inc/post-meta-boxes/meta-boxes.php:76 loco:6765f518ad08e11e0d0204db
+msgid "Show"
+msgstr "Göster"
+
+#: inc/post-meta-boxes/meta-boxes.php:77 loco:6765f518ad08e11e0d0204dc
+msgid "Hide"
+msgstr "Gizle"
+
+#: inc/post-meta-boxes/meta-boxes.php:81 loco:6765f518ad08e11e0d0204dd
+msgid "Show / Hide"
+msgstr "Göster / Gizle"
+
+#: inc/post-meta-boxes/meta-boxes.php:94 loco:6765f518ad08e11e0d0204de
+msgid "Gallery Format Settings"
+msgstr "Galeri Biçimi Ayarları"
+
+#: inc/post-meta-boxes/meta-boxes.php:105
+#: inc/post-meta-boxes/meta-boxes.php:150
+#: inc/post-meta-boxes/meta-boxes.php:195 loco:6765f518ad08e11e0d0204df
+msgid "Media type"
+msgstr "Ortam türü"
+
+#: inc/post-meta-boxes/meta-boxes.php:106 loco:6765f518ad08e11e0d0204e0
+msgid "This option applies to pages with posts. Default value: Slider."
+msgstr ""
+"Bu seçenek, yazıları olan sayfalar için geçerlidir. Varsayılan değer: Kayan."
+
+#: inc/post-meta-boxes/meta-boxes.php:110
+#: inc/post-meta-boxes/meta-boxes.php:156
+#: inc/post-meta-boxes/meta-boxes.php:201 loco:6765f518ad08e11e0d0204e1
+msgid "Featured image"
+msgstr "Öne çıkan resim"
+
+#: inc/post-meta-boxes/meta-boxes.php:111 loco:6765f518ad08e11e0d0204e2
+msgid "Slider"
+msgstr "Slayt"
+
+#: inc/post-meta-boxes/meta-boxes.php:115 loco:6765f518ad08e11e0d0204e3
+msgid "Featured image / Slider"
+msgstr "Öne çıkan resim / Slayt"
+
+#: inc/post-meta-boxes/meta-boxes.php:123 loco:6765f518ad08e11e0d0204e4
+msgid "Add images"
+msgstr "Resim ekle"
+
+#: inc/post-meta-boxes/meta-boxes.php:139 loco:6765f518ad08e11e0d0204e5
+msgid "Video Format Settings"
+msgstr "Video Formatı Ayarları"
+
+#: inc/post-meta-boxes/meta-boxes.php:151 loco:6765f518ad08e11e0d0204e6
+msgid ""
+"This option applies to pages with posts. Default value: Video player "
+"(iframe)."
+msgstr ""
+"Bu seçenek, yazıları olan sayfalar için geçerlidir. Varsayılan değer: Video "
+"oynatıcı (iframe)."
+
+#: inc/post-meta-boxes/meta-boxes.php:155 loco:6765f518ad08e11e0d0204e7
+msgid "Video player (iframe)"
+msgstr "Video oynatıcı (iframe)"
+
+#: inc/post-meta-boxes/meta-boxes.php:160 loco:6765f518ad08e11e0d0204e8
+msgid "Video player / Featured image"
+msgstr "Video oynatıcı / Öne çıkan resim"
+
+#: inc/post-meta-boxes/meta-boxes.php:168 loco:6765f518ad08e11e0d0204e9
+msgid "Video URL"
+msgstr "Video URL'si"
+
+#: inc/post-meta-boxes/meta-boxes.php:170 loco:6765f518ad08e11e0d0204ea
+msgid ""
+"Insert a link (URL) on a video from one of the video hosting sites: YouTube, "
+"Vimeo, etc."
+msgstr ""
+"Video barındırma sitelerinden birinden bir videoya bir bağlantı (URL) "
+"ekleyin: YouTube, Vimeo, vb."
+
+#: inc/post-meta-boxes/meta-boxes.php:184 loco:6765f518ad08e11e0d0204eb
+msgid "Audio Format Settings"
+msgstr "Ses Biçimi Ayarları"
+
+#: inc/post-meta-boxes/meta-boxes.php:196 loco:6765f518ad08e11e0d0204ec
+msgid ""
+"This option applies to pages with posts. Default value: Audio player "
+"(iframe)."
+msgstr ""
+"Bu seçenek, yazıları olan sayfalar için geçerlidir. Varsayılan değer: Ses "
+"çalar (iframe)."
+
+#: inc/post-meta-boxes/meta-boxes.php:200 loco:6765f518ad08e11e0d0204ed
+msgid "Audio player (iframe)"
+msgstr "Ses oynatıcı (iframe)"
+
+#: inc/post-meta-boxes/meta-boxes.php:205 loco:6765f518ad08e11e0d0204ee
+msgid "Audio player / Featured image"
+msgstr "Ses oynatıcı / Öne çıkan resim"
+
+#: inc/post-meta-boxes/meta-boxes.php:215 loco:6765f518ad08e11e0d0204ef
+msgid "Insert a link (URL) on a song from the SoundCloud service."
+msgstr "SoundCloud hizmetindeki bir şarkıdan bağlantı (URL) ekleyin."
+
+#: inc/post-meta-boxes/meta-boxes.php:229 loco:6765f518ad08e11e0d0204f0
+msgid "Link Format Settings"
+msgstr "Bağlantı Biçimi Ayarları"
+
+#: inc/post-meta-boxes/meta-boxes.php:240 loco:6765f518ad08e11e0d0204f1
+msgid "Open link in... (target attribute)"
+msgstr "Bağlantıyı şurada aç... (hedef özelliği)"
+
+#: inc/post-meta-boxes/meta-boxes.php:241 loco:6765f518ad08e11e0d0204f2
+msgid "Default value: New tab (_blank)."
+msgstr "Varsayılan değer: Yeni sekme (_blank)."
+
+#: inc/post-meta-boxes/meta-boxes.php:245 loco:6765f518ad08e11e0d0204f3
+msgid "Current tab (_self)"
+msgstr "Geçerli sekme (_self)"
+
+#: inc/post-meta-boxes/meta-boxes.php:246 loco:6765f518ad08e11e0d0204f4
+msgid "New tab (_blank)"
+msgstr "Yeni sekme (_blank)"
+
+#: inc/post-meta-boxes/meta-boxes.php:250 loco:6765f518ad08e11e0d0204f5
+msgid "Current tab / New tab"
+msgstr "Geçerli sekme / Yeni sekme"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:327
+#: inc/tgm-plugin-activation/plugin-activation.php:64
+#: loco:6765f518ad08e11e0d0204f6
+msgid "Install Required Plugins"
+msgstr "Gerekli Eklentileri Yükleyin"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:328
+#: inc/tgm-plugin-activation/plugin-activation.php:65
+#: loco:6765f518ad08e11e0d0204f7
+msgid "Install Plugins"
+msgstr "Eklentileri Yükle"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:330
+#: inc/tgm-plugin-activation/plugin-activation.php:67
+#: loco:6765f518ad08e11e0d0204f8
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Eklenti yükleniyor: %s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:332
+#: inc/tgm-plugin-activation/plugin-activation.php:69
+#: loco:6765f518ad08e11e0d0204f9
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Eklenti Güncelleniyor: %s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:333
+#: inc/tgm-plugin-activation/plugin-activation.php:70
+#: loco:6765f518ad08e11e0d0204fa
+msgid "Something went wrong with the plugin API."
+msgstr "Eklenti API'sinde bir sorun oluştu."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:336
+#: inc/tgm-plugin-activation/plugin-activation.php:73
+#: loco:6765f518ad08e11e0d0204fb
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Bu tema aşağıdaki eklentiyi gerektirir: %1$s."
+msgstr[1] "Bu tema aşağıdaki eklentileri gerektirir: %1$s."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:342
+#: inc/tgm-plugin-activation/plugin-activation.php:79
+#: loco:6765f518ad08e11e0d0204fd
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Bu tema aşağıdaki eklentiyi önerir: %1$s."
+msgstr[1] "Bu tema aşağıdaki eklentileri önerir: %1$s."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:348
+#: inc/tgm-plugin-activation/plugin-activation.php:85
+#: loco:6765f518ad08e11e0d0204ff
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Bu temayla maksimum uyumluluğu sağlamak için aşağıdaki eklentinin en son "
+"sürümüne güncellenmesi gerekir: %1$s."
+msgstr[1] ""
+"Bu temayla maksimum uyumluluğu sağlamak için aşağıdaki eklentilerin en son "
+"sürümlerine güncellenmesi gerekir: %1$s."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:354
+#: inc/tgm-plugin-activation/plugin-activation.php:91
+#: loco:6765f518ad08e11e0d020501
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Şunun için bir güncelleme mevcut: %1$s."
+msgstr[1] "Bu eklentiler için güncellemeler mevcut: %1$s."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:360
+#: inc/tgm-plugin-activation/plugin-activation.php:97
+#: loco:6765f518ad08e11e0d020503
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Aşağıdaki gerekli eklenti şu anda etkin değil: %1$s."
+msgstr[1] "Aşağıdaki gerekli eklentiler şu anda etkin değil: %1$s."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:366
+#: inc/tgm-plugin-activation/plugin-activation.php:103
+#: loco:6765f518ad08e11e0d020505
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Aşağıdaki önerilen eklenti şu anda etkin değil: %1$s."
+msgstr[1] "Aşağıdaki önerilen eklentiler şu anda etkin değil: %1$s."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:371
+#: inc/tgm-plugin-activation/plugin-activation.php:108
+#: loco:6765f518ad08e11e0d020507
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Eklentiyi yüklemeye başlayın"
+msgstr[1] "Eklentileri yüklemeye başlayın"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:376
+#: inc/tgm-plugin-activation/plugin-activation.php:113
+#: loco:6765f518ad08e11e0d020509
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Eklentiyi güncellemeye başlayın"
+msgstr[1] "Eklentileri güncellemeye başlayın"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:381
+#: inc/tgm-plugin-activation/plugin-activation.php:118
+#: loco:6765f518ad08e11e0d02050b
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Eklentiyi etkinleştirmeye başlayın"
+msgstr[1] "Eklentileri etkinleştirmeye başlayın"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:385
+#: inc/tgm-plugin-activation/plugin-activation.php:122
+#: loco:6765f518ad08e11e0d02050d
+msgid "Return to Required Plugins Installer"
+msgstr "Gerekli Eklenti Yükleyicisine Dön"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:386
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:827
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2533
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3579
+#: loco:6765f518ad08e11e0d02050e
+msgid "Return to the Dashboard"
+msgstr "Başlangıca geri dön"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:387
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3159
+#: inc/tgm-plugin-activation/plugin-activation.php:123
+#: loco:6765f518ad08e11e0d02050f
+msgid "Plugin activated successfully."
+msgstr "Eklenti başarıyla etkinleştirildi."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:388
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2952
+#: inc/tgm-plugin-activation/plugin-activation.php:124
+#: loco:6765f518ad08e11e0d020510
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Aşağıdaki eklenti başarıyla etkinleştirildi:"
+msgstr[1] "Aşağıdaki eklentiler başarıyla etkinleştirildi:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:390
+#: inc/tgm-plugin-activation/plugin-activation.php:126
+#: loco:6765f518ad08e11e0d020512
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Herhangi bir işlem yapılmadı. %1$s eklentisi zaten aktifti."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:392
+#: inc/tgm-plugin-activation/plugin-activation.php:128
+#: loco:6765f518ad08e11e0d020513
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Eklenti etkinleştirilmedi. Bu tema için %s'nin daha yüksek bir sürümü "
+"gereklidir. Lütfen eklentiyi güncelleyin."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:394
+#: inc/tgm-plugin-activation/plugin-activation.php:130
+#: loco:6765f518ad08e11e0d020514
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tüm eklentiler başarıyla yüklendi ve etkinleştirildi. %1$s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:395
+#: inc/tgm-plugin-activation/plugin-activation.php:131
+#: loco:6765f518ad08e11e0d020515
+msgid "Dismiss this notice"
+msgstr "Bu bildirimi kapat"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:396
+#: inc/tgm-plugin-activation/plugin-activation.php:132
+#: loco:6765f518ad08e11e0d020516
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Yüklenmesi, güncellenmesi veya etkinleştirilmesi gereken bir veya daha fazla "
+"gerekli veya önerilen eklenti var."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:397
+#: inc/tgm-plugin-activation/plugin-activation.php:133
+#: loco:6765f518ad08e11e0d020517
+msgid "Please contact the administrator of this site for help."
+msgstr "Yardım için lütfen bu sitenin yöneticisiyle iletişime geçin."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:522
+#: loco:6765f518ad08e11e0d020518
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Bu eklentinin temanızla uyumlu olması için güncellenmesi gerekiyor."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:523
+#: loco:6765f518ad08e11e0d020519
+msgid "Update Required"
+msgstr "Güncelleme Gerekli"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:934
+#: loco:6765f518ad08e11e0d02051a
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Uzak eklenti paketi, istenen bilgi içeren bir klasör içermiyor ve yeniden "
+"adlandırma işe yaramadı."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:934
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:937
+#: loco:6765f518ad08e11e0d02051b
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Lütfen eklenti sağlayıcısıyla iletişime geçin ve eklentilerini WordPress "
+"yönergelerine göre paketlemelerini isteyin."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:937
+#: loco:6765f518ad08e11e0d02051c
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Uzak eklenti paketi birden fazla dosyadan oluşuyor, ancak dosyalar bir "
+"klasörde paketlenmemiş."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1121
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2948
+#: loco:6765f518ad08e11e0d02051d
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "ve"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1982
+#: loco:6765f518ad08e11e0d02051e
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2273
+#: loco:6765f518ad08e11e0d02051f
+msgid "Required"
+msgstr "Gerekli"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2276
+#: loco:6765f518ad08e11e0d020520
+msgid "Recommended"
+msgstr "Önerilen"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2292
+#: loco:6765f518ad08e11e0d020521
+msgid "WordPress Repository"
+msgstr "WordPress Deposu"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2295
+#: loco:6765f518ad08e11e0d020522
+msgid "External Source"
+msgstr "Dış Kaynak"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2298
+#: loco:6765f518ad08e11e0d020523
+msgid "Pre-Packaged"
+msgstr "Önceden Paketlenmiş"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2315
+#: loco:6765f518ad08e11e0d020524
+msgid "Not Installed"
+msgstr "Yüklü Değil"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2319
+#: loco:6765f518ad08e11e0d020525
+msgid "Installed But Not Activated"
+msgstr "Yüklendi Ama Etkinleştirilmedi"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2321
+#: loco:6765f518ad08e11e0d020526
+msgid "Active"
+msgstr "Etkin"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2327
+#: loco:6765f518ad08e11e0d020527
+msgid "Required Update not Available"
+msgstr "Gerekli Güncelleme Mevcut Değil"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2330
+#: loco:6765f518ad08e11e0d020528
+msgid "Requires Update"
+msgstr "Güncelleme Gerektirir"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2333
+#: loco:6765f518ad08e11e0d020529
+msgid "Update recommended"
+msgstr "Güncelleme önerilir"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2342
+#: loco:6765f518ad08e11e0d02052a
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2388
+#: loco:6765f518ad08e11e0d02052b
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Tüm <span class=\"count\">(%s)</span>"
+msgstr[1] "Tüm <span class=\"count\">(%s)</span>"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2392
+#: loco:6765f518ad08e11e0d02052d
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Yüklemek için <span class=\"count\">(%s)</span>"
+msgstr[1] "Yüklemek için <span class=\"count\">(%s)</span>"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2396
+#: loco:6765f518ad08e11e0d02052f
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Güncelleme Mevcut <span class=\"count\">(%s)</span>"
+msgstr[1] "Güncelleme Mevcut <span class=\"count\">(%s)</span>"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2400
+#: loco:6765f518ad08e11e0d020531
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "<span class=\"count\">(%s)</span> etkinleştirmek için"
+msgstr[1] "<span class=\"count\">(%s)</span> etkinleştirmek için"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2482
+#: loco:6765f518ad08e11e0d020533
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "bilinmeyen"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2490
+#: loco:6765f518ad08e11e0d020534
+msgid "Installed version:"
+msgstr "Yüklü sürüm:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2498
+#: loco:6765f518ad08e11e0d020535
+msgid "Minimum required version:"
+msgstr "Gerekli en düşük sürüm:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2510
+#: loco:6765f518ad08e11e0d020536
+msgid "Available version:"
+msgstr "Mevcut sürüm:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2533
+#: loco:6765f518ad08e11e0d020537
+msgid "No plugins to install, update or activate."
+msgstr "Yüklenecek, güncellenecek veya etkinleştirilecek eklenti yok."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2547
+#: loco:6765f518ad08e11e0d020538
+msgid "Plugin"
+msgstr "Eklenti"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2548
+#: loco:6765f518ad08e11e0d020539
+msgid "Source"
+msgstr "Kaynak"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2549
+#: loco:6765f518ad08e11e0d02053a
+msgid "Type"
+msgstr "Tür"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2553
+#: loco:6765f518ad08e11e0d02053b
+msgid "Version"
+msgstr "Sürüm"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2554
+#: loco:6765f518ad08e11e0d02053c
+msgid "Status"
+msgstr "Durum"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2603
+#: loco:6765f518ad08e11e0d02053d
+#, php-format
+msgid "Install %2$s"
+msgstr "%2$s'yi yükleyin"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2608
+#: loco:6765f518ad08e11e0d02053e
+#, php-format
+msgid "Update %2$s"
+msgstr "%2$s'yi güncelle"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2614
+#: loco:6765f518ad08e11e0d02053f
+#, php-format
+msgid "Activate %2$s"
+msgstr "%2$s'yi etkinleştirin"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2684
+#: loco:6765f518ad08e11e0d020540
+msgid "Upgrade message from the plugin author:"
+msgstr "Eklenti yazarından yükseltme mesajı:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2717
+#: loco:6765f518ad08e11e0d020541
+msgid "Install"
+msgstr "Yükle"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2723
+#: loco:6765f518ad08e11e0d020542
+msgid "Update"
+msgstr "Güncelle"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2726
+#: loco:6765f518ad08e11e0d020543
+msgid "Activate"
+msgstr "Etkinleştir"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2757
+#: loco:6765f518ad08e11e0d020544
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"Yüklenmek üzere hiçbir eklenti seçilmedi. Herhangi bir işlem yapılmadı."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2759
+#: loco:6765f518ad08e11e0d020545
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"Güncellenmek üzere hiçbir eklenti seçilmedi. Herhangi bir işlem yapılmadı."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2800
+#: loco:6765f518ad08e11e0d020546
+msgid "No plugins are available to be installed at this time."
+msgstr "Şu anda yüklenebilecek eklenti yok."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2802
+#: loco:6765f518ad08e11e0d020547
+msgid "No plugins are available to be updated at this time."
+msgstr "Şu anda güncellenebilecek hiçbir eklenti yok."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2908
+#: loco:6765f518ad08e11e0d020548
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+"Etkinleştirilmek üzere hiçbir eklenti seçilmedi. Herhangi bir işlem "
+"yapılmadı."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2934
+#: loco:6765f518ad08e11e0d020549
+msgid "No plugins are available to be activated at this time."
+msgstr "Şu anda etkinleştirilebilecek hiçbir eklenti yok."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3158
+#: loco:6765f518ad08e11e0d02054a
+msgid "Plugin activation failed."
+msgstr "Eklenti etkinleştirmesi başarısız oldu."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3497
+#: loco:6765f518ad08e11e0d02054b
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Eklenti Güncelleniyor %1$s (%2$d/%3$d)"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3500
+#: loco:6765f518ad08e11e0d02054c
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "%1$s yüklenirken bir hata oluştu: <strong>%2$s</strong>."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3502
+#: loco:6765f518ad08e11e0d02054d
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "%1$s yüklemesi başarısız oldu."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3506
+#: loco:6765f518ad08e11e0d02054e
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Yükleme ve etkinleştirme işlemi başlıyor. Bu işlem bazı sunucularda biraz "
+"zaman alabilir, bu nedenle lütfen sabırlı olun."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3508
+#: loco:6765f518ad08e11e0d02054f
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s başarıyla kuruldu ve etkinleştirildi."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+#: loco:6765f518ad08e11e0d020550
+msgid "All installations and activations have been completed."
+msgstr "Tüm kurulumlar ve aktivasyonlar tamamlandı."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3511
+#: loco:6765f518ad08e11e0d020551
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "%1$s (%2$d/%3$d) Eklentisi Yükleniyor ve Etkinleştiriliyor"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3514
+#: loco:6765f518ad08e11e0d020552
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Yükleme işlemi başlıyor. Bu işlem bazı ana bilgisayarlarda biraz zaman "
+"alabilir, bu nedenle lütfen sabırlı olun."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3516
+#: loco:6765f518ad08e11e0d020553
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s başarıyla yüklendi."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+#: loco:6765f518ad08e11e0d020554
+msgid "All installations have been completed."
+msgstr "Tüm kurulumlar tamamlanmıştır."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3519
+#: loco:6765f518ad08e11e0d020555
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: page.php:93 single.php:109 loco:6765f518ad08e11e0d020556
+msgid "Pages:"
+msgstr "Sayfalar:"
+
+#: searchform.php:12 loco:6765f518ad08e11e0d020557
+msgid "Search:"
+msgstr "Arayın:"
+
+#: searchform.php:15 loco:6765f518ad08e11e0d020558
+msgid "Enter your search query..."
+msgstr "Arama sorgunuzu girin..."
+
+#: single.php:140 loco:6765f518ad08e11e0d020559
+msgid "Categories:"
+msgstr "Kategoriler:"
+
+#: single.php:154 loco:6765f518ad08e11e0d02055a
+msgid "Tags:"
+msgstr "Etiketler:"
+
+#: single.php:195 loco:6765f518ad08e11e0d02055b
+msgid "Previous post"
+msgstr "Önceki yazı"
+
+#: single.php:196 loco:6765f518ad08e11e0d02055c
+msgid "Next post"
+msgstr "Sonraki yazı"
+
+#: templates/blog-posts.php:86 loco:6765f518ad08e11e0d02055d
+msgid "Newer Posts"
+msgstr "Daha Yeni Yazılar"
+
+#: templates/blog-posts.php:87 loco:6765f518ad08e11e0d02055e
+msgid "Older Posts"
+msgstr "Eski Yazılar"
+
+#: templates/homepage-carousel.php:68 loco:6765f518ad08e11e0d02055f
+msgid "Carousel with posts"
+msgstr "Slaytlı yazılar"
+
+#: templates/homepage-carousel.php:199 templates/random-posts.php:66
+#: templates/related-posts.php:84 loco:6765f518ad08e11e0d020560
+msgid "Read Post"
+msgstr "Yazıyı Oku"
+
+#: templates/no-posts.php:15 loco:6765f518ad08e11e0d020561
+msgid "Nothing found"
+msgstr "Hiçbir şey bulunamadı"
+
+#: templates/no-posts.php:22 loco:6765f518ad08e11e0d020562
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"İlk gönderinizi yayınlamaya hazır mısınız? <a href=\"%1$s\">Buradan "
+"başlayın</a>."
+
+#: templates/no-posts.php:29 loco:6765f518ad08e11e0d020563
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Üzgünüz, ancak hiçbir şey arama terimlerinizle eşleşmedi. Lütfen bazı farklı "
+"anahtar kelimelerle tekrar deneyin."
+
+#: templates/no-posts.php:36 loco:6765f518ad08e11e0d020564
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr "Görünüşe göre aradığınızı bulamıyoruz."
+
+#: templates/random-posts.php:26 loco:6765f518ad08e11e0d020565
+msgid "Posts from our blog"
+msgstr "Blogumuzdan Yazılar"
+
+#: templates/related-posts.php:44 loco:6765f518ad08e11e0d020566
+msgid "You may also like"
+msgstr "Şunları da beğenebilirsiniz"
